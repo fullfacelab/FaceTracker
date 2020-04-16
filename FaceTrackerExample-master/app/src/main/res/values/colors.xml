@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color> -->
+
+    <!-- BackGround -->
+    <color name="bg_app">#004685</color>
+    <color name="bg_camera">#000000</color>
+
+    <!-- buttons -->
+    <color name="bg_default_button">#004685</color>
+    <color name="bg_button_pressed">#0099cc</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="greenStart">#ff33dd44</color>
+    <color name="greenMid">#ff0A8815</color>
+    <color name="greenEnd">#ff1da130</color>
+
+    <color name="blue">#00abea</color>
+    <color name="white">#ffffff</color>
+
+    <!-- PI900 -->
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#E64A19</color>
+    <color name="colorAccent">#1976D2</color>
+
+</resources>
+
+

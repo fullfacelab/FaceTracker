@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Blink Take Picture -->
+    <integer name="box_round">160</integer>
+    <integer name="box_foto0">200</integer>
+    <integer name="box_foto1">220</integer>
+</resources>
